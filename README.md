@@ -1,7 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kRedrum&layout=compact" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kRedrum)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p>
       <h3>Back-end frameworks</h3>
            <img src="https://skillicons.dev/icons?i=django,flask,express" />
