@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kRedrum&layout=compact" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kRedrum&theme=onedark&rank=S,A,AA,AAA,B,BB,BBB)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kRedrum)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
       <h3>Back-end frameworks</h3>
