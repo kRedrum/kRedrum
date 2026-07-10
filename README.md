@@ -1,33 +1,23 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kRedrum&layout=compact" />
-
 <p>
       <h3>Back-end frameworks</h3>
            <img src="https://skillicons.dev/icons?i=django,flask,express" />
       <h3>Front-end frameworks</h3>
-           <img src="https://skillicons.dev/icons?i=gatsby,react" />
+           <img src="https://skillicons.dev/icons?i=gatsby,react,nextjs" />
+      <h3>DevOps</h3>
+            <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,bash" />
 </p>
 
 <div>
     <p align="left">
         <h3>UI frameworks/libraries</h3>
-           <img src="https://skillicons.dev/icons?i=materialui,tailwind,styledcomponents,redux" />
+           <img src="https://skillicons.dev/icons?i=materialui,tailwind,styledcomponents,redux,contentful" />
     </p>
   </p>
 </div>
 <div>
     <p align="left">
         <h3>Database</h3>
-           <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+           <img src="https://skillicons.dev/icons?i=sqlite" />
     </p>
   </p>
-</div>
-
-    
-<h3>Languages</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
-
-<div align="center">
-    <h3>Others</h3>
-       <img src="https://skillicons.dev/icons?i=docker,postman" />
 </div>
